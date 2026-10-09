@@ -1,1 +1,13 @@
 *.jar
+*.cache
+*.sable
+minecraft/options.txt
+minecraft/patchouli_data.json
+minecraft/ponders_watched.json
+minecraft/usercache.json
+minecraft/usernamecache.json
+minecraft/saves
+minecraft/logs
+minecraft/data
+minecraft/downloads
+minecraft/debug
