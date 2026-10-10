@@ -463,6 +463,11 @@ hash = "910f8fbc16dfc4c65ebaf41b176f581ac3f765984aef9cadbdf98c78ada59d43"
 metafile = true
 
 [[files]]
+file = "mods/tis3d.pw.toml"
+hash = "6e19cbb8b37bc9b1cf486a7c4e5f691b5c90ebd4bcb4691419e6a7e48a152fe4"
+metafile = true
+
+[[files]]
 file = "mods/trickster.pw.toml"
 hash = "ca41ae47ed1edb12b58bd2e0e46f075630433acf5ee9b042f885a7606ded81eb"
 metafile = true

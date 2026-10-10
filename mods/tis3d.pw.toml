@@ -1,0 +1,13 @@
+name = "TIS-3D"
+filename = "tis3d-MC1.21.1-neoforge-2.0.0+fff58fd.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L23x7zL8/versions/NpsuTsrm/tis3d-MC1.21.1-neoforge-2.0.0%2Bfff58fd.jar"
+hash-format = "sha512"
+hash = "a54c0089453195bdb49d24fc0c18ff510a3fb01d8a9e411621f83c4f3ad496512d0fb34a251423621c8abf04051fe7fc6c491560d0e535a91065c038a96ac237"
+
+[update]
+[update.modrinth]
+mod-id = "L23x7zL8"
+version = "NpsuTsrm"
