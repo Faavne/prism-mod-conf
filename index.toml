@@ -261,12 +261,12 @@ file = "defaultconfigs/biolith/general.json"
 hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 
 [[files]]
-file = "instance.cfg"
-hash = "8f72267aa5169f74ab42516f22e107ca5717f00a311c033c8716f8c5b06d0a59"
+file = "icon.png"
+hash = "aba93480387ce59f4f8ec4157ec0c07b3c8243088df535bc9cdd61acd8e869a2"
 
 [[files]]
-file = "minecraft/icon.png"
-hash = "aba93480387ce59f4f8ec4157ec0c07b3c8243088df535bc9cdd61acd8e869a2"
+file = "instance.cfg"
+hash = "8f72267aa5169f74ab42516f22e107ca5717f00a311c033c8716f8c5b06d0a59"
 
 [[files]]
 file = "mmc-pack.json"
