@@ -1,9 +1,6 @@
 # Custom mod pack
 
-Modrinth pack download:
-
-
-
+Modrinth pack download: https://img.ayaya.dev/5KYiEMMZH
 
 
 # Mod list
