@@ -1,0 +1,13 @@
+name = "Prism Mod Conf"
+author = "Faavne"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5ff7e4aa2cb50ba97f531925b646785f03ada44f42e42e3c57f1df30aed938ed"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.257"
