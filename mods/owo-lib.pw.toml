@@ -1,0 +1,8 @@
+name = "owo-lib-0.13.0-alpha.15+1.21"
+filename = "owo-lib-neoforge-0.13.0-alpha.15+1.21.jar"
+side = "both"
+
+[download]
+url = "https://janne.spaceway.network/friends/mods/owo-lib-neoforge-0.13.0-alpha.15%2B1.21.jar"
+hash-format = "sha512"
+hash = "b612c1fc00e805c24a404411d954913d298fad08d5e8a1fbe4871c3c5aa6d578729fda2e6cd5adbbd57676bb6966bba7f36c9b5cda8614292ee808ebb1c7ea3d"

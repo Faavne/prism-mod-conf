@@ -1,0 +1,8 @@
+name = "trickster"
+filename = "trickster-2.0.0-beta.55.jar"
+side = "both"
+
+[download]
+url = "https://janne.spaceway.network/friends/mods/trickster-2.0.0-beta.55.jar"
+hash-format = "sha512"
+hash = "505133c3a9304a3b66213b077b73847b72b070de9d9585e057a346a85223acc3bec7b4262dbfaa8075131e147cac822191ad94359aca039586ad4f547fa81bcc"

@@ -1,13 +1,16 @@
-name = "Prism Mod Conf"
+name = "Brunch modded @ cornelia"
 author = "Faavne"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "473a6a92071bf1aacc49e18f37c67b81ce18131f75529bad259d3fc9145f62a0"
+hash = "eed8abf2f9e261fdcee7a3c7a13af33c40edd26a7255f08fea4708d250d5037d"
 
 [versions]
 minecraft = "1.21.1"
 neoforge = "21.1.257"
+
+[options]
+acceptable-game-versions = ["1.21", "1.21.1"]

@@ -1,41 +1,14 @@
-filename = 'culturaldelights-1.21.1-0.18.1.jar'
-name = 'Cultural Delights'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.18.1-1.21.1'
+name = "Cultural Delights"
+filename = "culturaldelights-1.21.1-0.18.1.jar"
+side = "both"
 
 [download]
-hash = 'dd6c3885df4405ab958a3b7f2f4d593f31dc0386051f180a231da298d7963d5a989f903886b66b485fa99760f81bc60c00c098bddae6e3a218c635e1b422d965'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/YttyNOFA/versions/jL5hP1qm/culturaldelights-1.21.1-0.18.1.jar'
+url = "https://cdn.modrinth.com/data/YttyNOFA/versions/jL5hP1qm/culturaldelights-1.21.1-0.18.1.jar"
+hash-format = "sha512"
+hash = "dd6c3885df4405ab958a3b7f2f4d593f31dc0386051f180a231da298d7963d5a989f903886b66b485fa99760f81bc60c00c098bddae6e3a218c635e1b422d965"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'YttyNOFA'
-version = 'jL5hP1qm'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'EsAfCjCV'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'fFEIiSDQ'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'R2OftAxM'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'fRiHVvU7'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'QC7N8ljN'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'u6dRKJwZ'
-type = 'OPTIONAL'
+mod-id = "YttyNOFA"
+version = "jL5hP1qm"
