@@ -84,7 +84,7 @@ disabled_generic_methods = []
 		#The number of bytes which can be uploaded in a second. This is shared across all computers. (bytes/s).
 		# Default: 33554432
 		# Range: > 1
-		global_upload = 33554432
+		global_upload = 10554432
 
 	#Tunnels HTTP and websocket requests through a proxy server. Only affects HTTP
 	#rules with "use_proxy" set to true (off by default).
@@ -167,11 +167,11 @@ disabled_generic_methods = []
 	#The range of Wireless Modems at low altitude in clear weather, in meters.
 	# Default: 64
 	# Range: 0 ~ 100000
-	modem_range = 64
+	modem_range = 128
 	#The range of Wireless Modems at maximum altitude in clear weather, in meters.
 	# Default: 384
 	# Range: 0 ~ 100000
-	modem_high_altitude_range = 384
+	modem_high_altitude_range = 728
 	#The range of Wireless Modems at low altitude in stormy weather, in meters.
 	# Default: 64
 	# Range: 0 ~ 100000
