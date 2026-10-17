@@ -2,7 +2,7 @@
 Minecraft version: 1.21.1
 Java version: 21
 
-Modrinth pack download: [Modded server v1.0.2](https://janne.spaceway.network/friends/modded_server_1.0.2.mrpack)
+Modrinth pack download: [Modded server v1.0.3](https://janne.spaceway.network/friends/modded_server_1.0.3.mrpack)
 
 # Tools
 1. packwiz for managing mods: https://github.com/packwiz/packwiz (note to add fabric mods temporarily add fabric to pack.toml)

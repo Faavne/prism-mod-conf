@@ -1,12 +1,12 @@
 name = "Brunch modded @ cornelia"
 author = "Faavne"
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f3669cfddb303968b65e3be0713633a67ca2f1dbe6914c8eb8b7c4f9b007c017"
+hash = "db31ec1b0ab4bc934a6969c21be4191fadbd2cad49bf985468baa3a287d02581"
 
 [versions]
 minecraft = "1.21.1"
