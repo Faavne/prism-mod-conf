@@ -42,7 +42,7 @@ hash = "64b707a15cc44b030e85077aad16b485910e2c732d3319d8718e6b84801decb5"
 
 [[files]]
 file = "config/computercraft-server.toml"
-hash = "7ba770f3612ebf571a4f18191a3151f16f97102251475f2bbf63c6d0a6d4f12d"
+hash = "69b83d4af2dfee771649ab283d0a01be30269d3eb013ebbe8df9f95820790712"
 
 [[files]]
 file = "config/connector.json"
@@ -318,6 +318,11 @@ hash = "b61d3f5111deddfc36ba242d039d9df1945e523a956902e7960fac7c3ec6de56"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "0068600d3a81ec5e80dd2b7d700bdb7b957f953ee340c6526ba7da741661a40b"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "418adfe40c1b3514edc9adb2f07602f53c068035b4443ddbb68132e5f757701d"
 metafile = true
@@ -465,6 +470,11 @@ metafile = true
 [[files]]
 file = "mods/tis3d.pw.toml"
 hash = "6e19cbb8b37bc9b1cf486a7c4e5f691b5c90ebd4bcb4691419e6a7e48a152fe4"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "12230ba5245061b97a02c5ccffe43439ed0ed965f0f64f770fd9cdbf38f2d79c"
 metafile = true
 
 [[files]]
